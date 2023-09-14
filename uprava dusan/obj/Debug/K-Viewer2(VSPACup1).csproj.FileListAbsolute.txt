@@ -1,0 +1,207 @@
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\bin\Debug\K-Viewer.exe.config
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\bin\Debug\K-Viewer.exe
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\bin\Debug\K-Viewer.pdb
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\obj\Debug\K-Viewer2(VSPACup1).csprojAssemblyReference.cache
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\obj\Debug\K-Viewer2(VSPACup1).csproj.ResolveComReference.cache
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.InfoForm.resources
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.NicSelectForm.resources
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ErrorStatusDisplayControl.resources
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ImageDisplayControl.resources
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.IPAddressControl.resources
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.LoginForm.resources
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.PlcResultDisplayControl.resources
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramListDisplayControl.resources
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramSettingsDisplayControl.resources
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ResultDisplayControl.resources
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.SensorIdentificationDisplayControl.resources
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ToolResultDisplayControl.resources
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Properties.Resources.resources
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.SampleForm.resources
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.VisionSensorViewer.resources
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\obj\Debug\K-Viewer2(VSPACup1).csproj.GenerateResource.cache
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\obj\Debug\K-Viewer2(VSPACup1).csproj.CoreCompileInputs.cache
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\obj\Debug\K-Viewer2(VSPACup1).csproj.CopyComplete
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\obj\Debug\K-Viewer.exe
+C:\Users\Kubik\Documents\praca\YFAI\NO\Cupholder Skenning\c#\FINAL\obj\Debug\K-Viewer.pdb
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\bin\Debug\K-Viewer.exe.config
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\bin\Debug\K-Viewer.exe
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\bin\Debug\K-Viewer.pdb
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\obj\Debug\K-Viewer2(VSPACup1).csproj.ResolveComReference.cache
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.InfoForm.resources
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.NicSelectForm.resources
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ErrorStatusDisplayControl.resources
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ImageDisplayControl.resources
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.IPAddressControl.resources
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.LoginForm.resources
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.PlcResultDisplayControl.resources
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramListDisplayControl.resources
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramSettingsDisplayControl.resources
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ResultDisplayControl.resources
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.SensorIdentificationDisplayControl.resources
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ToolResultDisplayControl.resources
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Properties.Resources.resources
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.SampleForm.resources
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.VisionSensorViewer.resources
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\obj\Debug\K-Viewer2(VSPACup1).csproj.GenerateResource.cache
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\obj\Debug\K-Viewer2(VSPACup1).csproj.CoreCompileInputs.cache
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\obj\Debug\K-Viewer2(VSPACup1).csproj.CopyComplete
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\obj\Debug\K-Viewer.exe
+Y:\AktualProject\YanFeng namestovo\VolvoSPA Cupholder1\c#\FINAL\obj\Debug\K-Viewer.pdb
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\bin\Debug\K-Viewer.exe.config
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\bin\Debug\K-Viewer.exe
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\bin\Debug\K-Viewer.pdb
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\obj\Debug\K-Viewer2(VSPACup1).csprojAssemblyReference.cache
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\obj\Debug\K-Viewer2(VSPACup1).csproj.ResolveComReference.cache
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.InfoForm.resources
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.NicSelectForm.resources
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ErrorStatusDisplayControl.resources
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ImageDisplayControl.resources
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.IPAddressControl.resources
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.LoginForm.resources
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.PlcResultDisplayControl.resources
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramListDisplayControl.resources
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramSettingsDisplayControl.resources
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ResultDisplayControl.resources
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.SensorIdentificationDisplayControl.resources
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ToolResultDisplayControl.resources
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Properties.Resources.resources
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.SampleForm.resources
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.VisionSensorViewer.resources
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\obj\Debug\K-Viewer2(VSPACup1).csproj.GenerateResource.cache
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\obj\Debug\K-Viewer2(VSPACup1).csproj.CopyComplete
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\obj\Debug\K-Viewer.exe
+D:\Project praca\YF-NO\volvo cupholder\ODS\uprava dusan\FINAL\obj\Debug\K-Viewer.pdb
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\bin\Debug\K-Viewer.exe.config
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\bin\Debug\K-Viewer.exe
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\bin\Debug\K-Viewer.pdb
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\K-Viewer2(VSPACup1).csprojAssemblyReference.cache
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\K-Viewer2(VSPACup1).csproj.ResolveComReference.cache
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.InfoForm.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.NicSelectForm.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ErrorStatusDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ImageDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.IPAddressControl.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.LoginForm.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.PlcResultDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramListDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramSettingsDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ResultDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.SensorIdentificationDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ToolResultDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Properties.Resources.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.SampleForm.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.VisionSensorViewer.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\K-Viewer2(VSPACup1).csproj.GenerateResource.cache
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\K-Viewer2(VSPACup1).csproj.CoreCompileInputs.cache
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\K-Viewer2(VSPACup1).csproj.CopyComplete
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\K-Viewer.exe
+d:\duracer\Desktop\aktualne projekty (Synology)\#### Tubex\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\K-Viewer.pdb
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\bin\Debug\K-Viewer.exe.config
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\bin\Debug\K-Viewer.exe
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\bin\Debug\K-Viewer.pdb
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\K-Viewer2(VSPACup1).csprojAssemblyReference.cache
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\K-Viewer2(VSPACup1).csproj.ResolveComReference.cache
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.InfoForm.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.NicSelectForm.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ErrorStatusDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ImageDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.IPAddressControl.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.LoginForm.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.PlcResultDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramListDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramSettingsDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ResultDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.SensorIdentificationDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ToolResultDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Properties.Resources.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.SampleForm.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.VisionSensorViewer.resources
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\K-Viewer2(VSPACup1).csproj.GenerateResource.cache
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\K-Viewer2(VSPACup1).csproj.CoreCompileInputs.cache
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\K-Viewer2(VSPACup1).csproj.CopyComplete
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\K-Viewer.exe
+d:\duracer\Desktop\aktualne projekty (Synology)\### NAMESTOVO\NAMESTOVO K-VIEWER\uprava dusan\FINAL\obj\Debug\K-Viewer.pdb
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\bin\Debug\K-Viewer.exe.config
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\bin\Debug\K-Viewer.exe
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\bin\Debug\K-Viewer.pdb
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\obj\Debug\K-Viewer2(VSPACup1).csprojAssemblyReference.cache
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\obj\Debug\K-Viewer2(VSPACup1).csproj.ResolveComReference.cache
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.InfoForm.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.NicSelectForm.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ErrorStatusDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ImageDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.IPAddressControl.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.LoginForm.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.PlcResultDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramListDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramSettingsDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ResultDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.SensorIdentificationDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ToolResultDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Properties.Resources.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.SampleForm.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.VisionSensorViewer.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\obj\Debug\K-Viewer2(VSPACup1).csproj.GenerateResource.cache
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\obj\Debug\K-Viewer2(VSPACup1).csproj.CoreCompileInputs.cache
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\obj\Debug\K-Viewer2(VSPACup1).csproj.CopyComplete
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\obj\Debug\K-Viewer.exe
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (24.6.2020)\uprava dusan\FINAL\obj\Debug\K-Viewer.pdb
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\bin\Debug\K-Viewer.exe.config
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\bin\Debug\K-Viewer.exe
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\bin\Debug\K-Viewer.pdb
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\obj\Debug\K-Viewer2(VSPACup1).csprojAssemblyReference.cache
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\obj\Debug\K-Viewer2(VSPACup1).csproj.ResolveComReference.cache
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.InfoForm.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.NicSelectForm.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ErrorStatusDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ImageDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.IPAddressControl.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.LoginForm.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.PlcResultDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramListDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramSettingsDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ResultDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.SensorIdentificationDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ToolResultDisplayControl.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Properties.Resources.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.SampleForm.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.VisionSensorViewer.resources
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\obj\Debug\K-Viewer2(VSPACup1).csproj.GenerateResource.cache
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\obj\Debug\K-Viewer2(VSPACup1).csproj.CoreCompileInputs.cache
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\obj\Debug\K-Viewer2(VSPACup1).csproj.CopyComplete
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\obj\Debug\K-Viewer.exe
+d:\duracer\Desktop\aktualne projekty\### NAMESTOVO\NAMESTOVO K-VIEWER (13.06.2022)\uprava dusan\obj\Debug\K-Viewer.pdb
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\bin\Debug\K-Viewer.exe.config
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\bin\Debug\K-Viewer.exe
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\bin\Debug\K-Viewer.pdb
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\K-Viewer2(VSPACup1).csproj.AssemblyReference.cache
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\K-Viewer2(VSPACup1).csproj.SuggestedBindingRedirects.cache
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\K-Viewer2(VSPACup1).csproj.ResolveComReference.cache
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.InfoForm.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.NicSelectForm.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ErrorStatusDisplayControl.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ImageDisplayControl.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.IPAddressControl.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.LoginForm.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.PlcResultDisplayControl.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramListDisplayControl.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramSettingsDisplayControl.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ResultDisplayControl.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.SensorIdentificationDisplayControl.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ToolResultDisplayControl.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Properties.Resources.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.SampleForm.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.VisionSensorViewer.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\K-Viewer2(VSPACup1).csproj.GenerateResource.cache
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\K-Viewer2(VSPACup1).csproj.CoreCompileInputs.cache
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\K-Viewer2(VSPACup1).csproj.CopyComplete
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\K-Viewer.exe
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\SKRUTKOVANIE DIELOV (PUNCH NAMESTOVO)\NAMESTOVO K-VIEWER (2023.09.13)\uprava dusan\obj\Debug\K-Viewer.pdb

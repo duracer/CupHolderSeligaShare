@@ -1,0 +1,218 @@
+D:\duracer\Desktop\###### KEYENCE\IV-SDK_R101_2\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.NicSelectForm.resources
+D:\duracer\Desktop\###### KEYENCE\IV-SDK_R101_2\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ErrorStatusDisplayControl.resources
+D:\duracer\Desktop\###### KEYENCE\IV-SDK_R101_2\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ImageDisplayControl.resources
+D:\duracer\Desktop\###### KEYENCE\IV-SDK_R101_2\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.IPAddressControl.resources
+D:\duracer\Desktop\###### KEYENCE\IV-SDK_R101_2\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.LoginForm.resources
+D:\duracer\Desktop\###### KEYENCE\IV-SDK_R101_2\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramListDisplayControl.resources
+D:\duracer\Desktop\###### KEYENCE\IV-SDK_R101_2\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramSettingsDisplayControl.resources
+D:\duracer\Desktop\###### KEYENCE\IV-SDK_R101_2\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ResultDisplayControl.resources
+D:\duracer\Desktop\###### KEYENCE\IV-SDK_R101_2\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.SensorIdentificationDisplayControl.resources
+D:\duracer\Desktop\###### KEYENCE\IV-SDK_R101_2\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ToolResultDisplayControl.resources
+D:\duracer\Desktop\###### KEYENCE\IV-SDK_R101_2\Sample_CSharp\obj\Debug\Sample_CSharp.Properties.Resources.resources
+D:\duracer\Desktop\###### KEYENCE\IV-SDK_R101_2\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.SampleForm.resources
+D:\duracer\Desktop\###### KEYENCE\IV-SDK_R101_2\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.VisionSensorViewer.resources
+D:\duracer\Desktop\###### KEYENCE\IV-SDK_R101_2\Sample_CSharp\obj\Debug\Sample_CSharp.csproj.GenerateResource.Cache
+D:\duracer\Desktop\###### KEYENCE\IV-SDK_R101_2\Sample_CSharp\bin\Debug\Sample_CSharp.exe
+D:\duracer\Desktop\###### KEYENCE\IV-SDK_R101_2\Sample_CSharp\bin\Debug\Sample_CSharp.pdb
+D:\duracer\Desktop\###### KEYENCE\IV-SDK_R101_2\Sample_CSharp\bin\Debug\Keyence.IV.Sdk.dll
+D:\duracer\Desktop\###### KEYENCE\IV-SDK_R101_2\Sample_CSharp\bin\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\duracer\Desktop\###### KEYENCE\IV-SDK_R101_2\Sample_CSharp\obj\Debug\Sample_CSharp.csprojResolveAssemblyReference.cache
+D:\duracer\Desktop\###### KEYENCE\IV-SDK_R101_2\Sample_CSharp\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\duracer\Desktop\###### KEYENCE\IV-SDK_R101_2\Sample_CSharp\obj\Debug\Sample_CSharp.csproj.ResolveComReference.cache
+D:\duracer\Desktop\###### KEYENCE\IV-SDK_R101_2\Sample_CSharp\obj\Debug\Sample_CSharp.exe
+D:\duracer\Desktop\###### KEYENCE\IV-SDK_R101_2\Sample_CSharp\obj\Debug\Sample_CSharp.pdb
+D:\duracer\Desktop\projekty\PLC + KEYENCE\Sample_CSharp\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\duracer\Desktop\projekty\PLC + KEYENCE\Sample_CSharp\obj\Debug\Sample_CSharp.csproj.ResolveComReference.cache
+D:\duracer\Desktop\projekty\PLC + KEYENCE\Sample_CSharp\obj\Debug\Sample_CSharp.exe
+D:\duracer\Desktop\projekty\PLC + KEYENCE\Sample_CSharp\obj\Debug\Sample_CSharp.pdb
+D:\duracer\Desktop\projekty\PLC + KEYENCE\Sample_CSharp\bin\Debug\Sample_CSharp.exe
+D:\duracer\Desktop\projekty\PLC + KEYENCE\Sample_CSharp\bin\Debug\Sample_CSharp.pdb
+D:\duracer\Desktop\projekty\PLC + KEYENCE\Sample_CSharp\bin\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\duracer\Desktop\projekty\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.NicSelectForm.resources
+D:\duracer\Desktop\projekty\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ErrorStatusDisplayControl.resources
+D:\duracer\Desktop\projekty\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ImageDisplayControl.resources
+D:\duracer\Desktop\projekty\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.IPAddressControl.resources
+D:\duracer\Desktop\projekty\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.LoginForm.resources
+D:\duracer\Desktop\projekty\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramListDisplayControl.resources
+D:\duracer\Desktop\projekty\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramSettingsDisplayControl.resources
+D:\duracer\Desktop\projekty\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ResultDisplayControl.resources
+D:\duracer\Desktop\projekty\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.SensorIdentificationDisplayControl.resources
+D:\duracer\Desktop\projekty\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ToolResultDisplayControl.resources
+D:\duracer\Desktop\projekty\PLC + KEYENCE\Sample_CSharp\obj\Debug\Sample_CSharp.Properties.Resources.resources
+D:\duracer\Desktop\projekty\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.SampleForm.resources
+D:\duracer\Desktop\projekty\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.VisionSensorViewer.resources
+D:\duracer\Desktop\projekty\PLC + KEYENCE\Sample_CSharp\obj\Debug\Sample_CSharp.csproj.GenerateResource.Cache
+d:\duracer\Desktop\projekty\PLC + KEYENCE\Sample_CSharp\obj\Debug\Sample_CSharp.csprojResolveAssemblyReference.cache
+d:\duracer\Desktop\projekty\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.PlcResultDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\obj\Debug\Sample_CSharp.csproj.ResolveComReference.cache
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\obj\Debug\Sample_CSharp.exe
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\obj\Debug\Sample_CSharp.pdb
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\bin\Debug\Sample_CSharp.exe
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\bin\Debug\Sample_CSharp.pdb
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\bin\Debug\Interop.AccessibilityCplAdminLib.dll
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\obj\Debug\Sample_CSharp.csprojResolveAssemblyReference.cache
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.NicSelectForm.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ErrorStatusDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ImageDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.IPAddressControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.LoginForm.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.PlcResultDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramListDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramSettingsDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ResultDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.SensorIdentificationDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ToolResultDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\obj\Debug\Sample_CSharp.Properties.Resources.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.SampleForm.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.VisionSensorViewer.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\obj\Debug\Sample_CSharp.csproj.GenerateResource.Cache
+d:\duracer\Desktop\########### PLC + KEYENCE\PLC + KEYENCE\Sample_CSharp\bin\Debug\Sample_CSharp.exe.config
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\bin\Debug\Sample_CSharp.exe.config
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\obj\Debug\Sample_CSharp.csproj.ResolveComReference.cache
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\obj\Debug\Sample_CSharp.exe
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\obj\Debug\Sample_CSharp.pdb
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\obj\Debug\Sample_CSharp.csprojResolveAssemblyReference.cache
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.NicSelectForm.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ErrorStatusDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ImageDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.IPAddressControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.LoginForm.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.PlcResultDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramListDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramSettingsDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ResultDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.SensorIdentificationDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ToolResultDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\obj\Debug\Sample_CSharp.Properties.Resources.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.SampleForm.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.VisionSensorViewer.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\obj\Debug\Sample_CSharp.csproj.GenerateResource.Cache
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\bin\Debug\Sample_CSharp.exe
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\bin\Debug\Sample_CSharp.pdb
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 27.07.2017\Sample_CSharp\bin\Debug\Interop.AccessibilityCplAdminLib.dll
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 24.07.2017\Sample_CSharp\bin\Debug\Sample_CSharp.exe.config
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 24.07.2017\Sample_CSharp\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 24.07.2017\Sample_CSharp\obj\Debug\Sample_CSharp.csproj.ResolveComReference.cache
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 24.07.2017\Sample_CSharp\obj\Debug\Sample_CSharp.exe
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 24.07.2017\Sample_CSharp\obj\Debug\Sample_CSharp.pdb
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 25.07.2017\Sample_CSharp\bin\Debug\Sample_CSharp.exe.config
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 25.07.2017\Sample_CSharp\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 25.07.2017\Sample_CSharp\obj\Debug\Sample_CSharp.csproj.ResolveComReference.cache
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 25.07.2017\Sample_CSharp\obj\Debug\Sample_CSharp.exe
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 25.07.2017\Sample_CSharp\obj\Debug\Sample_CSharp.pdb
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 25.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.NicSelectForm.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 25.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ErrorStatusDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 25.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ImageDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 25.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.IPAddressControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 25.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.LoginForm.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 25.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.PlcResultDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 25.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramListDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 25.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramSettingsDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 25.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ResultDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 25.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.SensorIdentificationDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 25.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ToolResultDisplayControl.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 25.07.2017\Sample_CSharp\obj\Debug\Sample_CSharp.Properties.Resources.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 25.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.SampleForm.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 25.07.2017\Sample_CSharp\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.VisionSensorViewer.resources
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 25.07.2017\Sample_CSharp\obj\Debug\Sample_CSharp.csproj.GenerateResource.Cache
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 25.07.2017\Sample_CSharp\bin\Debug\Sample_CSharp.exe
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 25.07.2017\Sample_CSharp\bin\Debug\Sample_CSharp.pdb
+d:\duracer\Desktop\########### PLC + KEYENCE\KEYENCE 25.07.2017\Sample_CSharp\bin\Debug\Interop.AccessibilityCplAdminLib.dll
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017\bin\Debug\Sample_CSharp.exe.config
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017\obj\Debug\Sample_CSharp.csproj.ResolveComReference.cache
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017\obj\Debug\Sample_CSharp.exe
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017\obj\Debug\Sample_CSharp.pdb
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.NicSelectForm.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ErrorStatusDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ImageDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.IPAddressControl.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.LoginForm.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.PlcResultDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramListDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramSettingsDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ResultDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.SensorIdentificationDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ToolResultDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017\obj\Debug\Sample_CSharp.Properties.Resources.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.SampleForm.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.VisionSensorViewer.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017\obj\Debug\Sample_CSharp.csproj.GenerateResource.Cache
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017\bin\Debug\Sample_CSharp.exe
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017\bin\Debug\Sample_CSharp.pdb
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017\bin\Debug\Interop.AccessibilityCplAdminLib.dll
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017 (po Jak. výmysloch)\bin\Debug\Sample_CSharp.exe.config
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017 (po Jak. výmysloch)\bin\Debug\Sample_CSharp.exe
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017 (po Jak. výmysloch)\bin\Debug\Sample_CSharp.pdb
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017 (po Jak. výmysloch)\bin\Debug\Interop.AccessibilityCplAdminLib.dll
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017 (po Jak. výmysloch)\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017 (po Jak. výmysloch)\obj\Debug\Sample_CSharp.csproj.ResolveComReference.cache
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017 (po Jak. výmysloch)\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.NicSelectForm.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017 (po Jak. výmysloch)\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ErrorStatusDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017 (po Jak. výmysloch)\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ImageDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017 (po Jak. výmysloch)\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.IPAddressControl.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017 (po Jak. výmysloch)\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.LoginForm.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017 (po Jak. výmysloch)\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.PlcResultDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017 (po Jak. výmysloch)\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramListDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017 (po Jak. výmysloch)\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramSettingsDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017 (po Jak. výmysloch)\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ResultDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017 (po Jak. výmysloch)\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.SensorIdentificationDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017 (po Jak. výmysloch)\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ToolResultDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017 (po Jak. výmysloch)\obj\Debug\Sample_CSharp.Properties.Resources.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017 (po Jak. výmysloch)\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.SampleForm.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017 (po Jak. výmysloch)\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.VisionSensorViewer.resources
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017 (po Jak. výmysloch)\obj\Debug\Sample_CSharp.csproj.GenerateResource.Cache
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017 (po Jak. výmysloch)\obj\Debug\Sample_CSharp.exe
+d:\duracer\Desktop\########### K-Viewer\KEYENCE 18.08.2017 (po Jak. výmysloch)\obj\Debug\Sample_CSharp.pdb
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\obj\Debug\Sample_CSharp.csproj.ResolveComReference.cache
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\bin\Debug\Interop.AccessibilityCplAdminLib.dll
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.NicSelectForm.resources
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ErrorStatusDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ImageDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.IPAddressControl.resources
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.LoginForm.resources
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.PlcResultDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramListDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramSettingsDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ResultDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.SensorIdentificationDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ToolResultDisplayControl.resources
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\obj\Debug\Sample_CSharp.Properties.Resources.resources
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.SampleForm.resources
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.VisionSensorViewer.resources
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\obj\Debug\Sample_CSharp.csproj.GenerateResource.Cache
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.InfoForm.resources
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\bin\Debug\K-Viewer.exe.config
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\bin\Debug\K-Viewer.exe
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\bin\Debug\K-Viewer.pdb
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\obj\Debug\K-Viewer.exe
+d:\duracer\Desktop\########### K-Viewer\#### FINAL ####\obj\Debug\K-Viewer.pdb
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\bin\Debug\K-Viewer.exe.config
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\bin\Debug\K-Viewer.exe
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\bin\Debug\K-Viewer.pdb
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\obj\Debug\Sample_CSharp.csproj.ResolveComReference.cache
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.InfoForm.resources
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.NicSelectForm.resources
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ErrorStatusDisplayControl.resources
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ImageDisplayControl.resources
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.IPAddressControl.resources
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.LoginForm.resources
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.PlcResultDisplayControl.resources
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramListDisplayControl.resources
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ProgramSettingsDisplayControl.resources
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ResultDisplayControl.resources
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.SensorIdentificationDisplayControl.resources
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Parts.ToolResultDisplayControl.resources
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.SampleForm.resources
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.VisionSensorViewer.resources
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\obj\Debug\Sample_CSharp.csproj.GenerateResource.Cache
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\obj\Debug\Sample_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\obj\Debug\K-Viewer.exe
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\obj\Debug\K-Viewer.pdb
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\obj\Debug\Keyence.IV.Sdk.Sample_CSharp.Properties.Resources.resources
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\obj\Debug\Sample_CSharp.csprojAssemblyReference.cache
+C:\Users\Kubik\Documents\praca\kia\meranie farby sviecok\c#\FINAL\obj\Debug\Sample_CSharp.csproj.CopyComplete
